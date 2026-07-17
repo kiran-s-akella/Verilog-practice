@@ -1,8 +1,4 @@
-# Day 1: Half Adder & Full Adder
-
-Adders are the most fundamental building blocks of digital arithmetic circuits. A **Half Adder** adds two single bits, while a **Full Adder** extends this by also accepting a carry-in, making it possible to chain multiple adders together to build larger arithmetic circuits (like the Ripple Carry Adder in the next section).
-
----
+# Half Adder & Full Adder
 
 ## 1. Half Adder
 
