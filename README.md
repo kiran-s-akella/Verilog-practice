@@ -1,4 +1,4 @@
-# Verilog Digital Design & Projects 🚀
+# Verilog Digital Design 🚀
 
 This repository serves as a personal reference documenting my journey through digital circuit design. It transitions from foundational combinational logic to sequential circuits and finite state machines (FSMs).
 
