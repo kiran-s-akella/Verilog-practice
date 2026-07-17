@@ -1,4 +1,4 @@
-# Day 2: Ripple Carry Adder
+# Ripple Carry Adder
 
 A **Ripple Carry Adder (RCA)** is built by chaining multiple Full Adders together, where the carry-out of one stage "ripples" into the carry-in of the next. This 4-bit implementation adds two 4-bit numbers (`a`, `b`) along with an initial carry-in (`cin`) to produce a 4-bit `sum` and a final carry-out (`cout`).
 
