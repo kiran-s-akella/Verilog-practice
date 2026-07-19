@@ -1,4 +1,4 @@
-# Ripple Carry Adder
+# 2: Ripple Carry Adder
 
 
 ## Truth Table (Sample Cases)
